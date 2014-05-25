@@ -7,4 +7,4 @@ All data for this project were uploaded to Get-CleanData repo, so users can manu
 
 Just load run_analysis.R in R and run it. The problem may occur if neccessary data are not properly downloaded. This case you need to download them manually from my repo. Raw data will be modified follow by 5 steps in course project. The final output is "tidydata.txt". 
 
-The project looked in mess at begining, but thanks for the helps of many experts in course's forum. The problem is I thought the instructions should be clearer.
+The project looked in mess at begining, but thanks for the helps of many experts in course's forum. I've learned so much from this practical letures too, but the problem is I thought the instructions for the project should be clearer.
